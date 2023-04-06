@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T15:17:51Z",
+  "IdClaims": [
+    {
+      "Claim": "t:bullcityfats"
+    },
+    {
+      "Claim": "mdon:@bullcityfats@universeodon.com"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "2923d9c135873dc3b1f249a5",
+    "Timestamp": "2023-04-06T15:22:38Z",
+    "Signature": "507ce66f131d1b9adfac4493d86dc543a1ad85b71173a11cc797cc627f7fbabb7dcfb9153382f22765e2241495092e981e3422e2de0a1e60e6e14dabd12c2ef59c4720211bad5264c92cbbdfd0eb26f8f883ecb58937022b2aa7cae65e90a6ace1b0f9435f7381d675163a334c0d59e97a3b24244fbb6f406f305ffed9341574ea977f518527c6c61f605a605d8c09d39397f5e55785f394d7ae00480f55fa8a14ed4cf4ae05b3e40afac6b7d290d4166bdcd7d5c2c5c5813c02b5f3caaece8443639f16e6a40335c17b6814e4f1876297791f35d5fca4ab76ce55c877ae918054e73c2b839361942c949754dfc6fe0c2b5873944240abb47096c463d0579020"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "db7aaf91c977aff7c31b457a90eec153d405faefb771137fc61dbe92535a8544",
+  "ContentToHash": "v1|mdon:@bullcityfats@universeodon.com,med:no-account,post:no-account,spout:no-account,ss:no-account,t:bullcityfats|2023-04-06T15:17:51Z"
+}
